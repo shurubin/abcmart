@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abcmart/static/css/main.93fd37f6.css",
+    "main.js": "/abcmart/static/js/main.4d041dac.js",
+    "static/media/intro_sec8_slide5_bg.jpg": "/abcmart/static/media/intro_sec8_slide5_bg.6d311ab913784a5f2ce8.jpg",
+    "static/media/intro_sec8_slide3_bg.jpg": "/abcmart/static/media/intro_sec8_slide3_bg.da17579d9dd980b49785.jpg",
+    "static/media/intro_sec8_slide4_bg.jpg": "/abcmart/static/media/intro_sec8_slide4_bg.1048c07a54fef27dea23.jpg",
+    "static/media/intro_sec8_slide8_bg.jpg": "/abcmart/static/media/intro_sec8_slide8_bg.594db8bb27e1dc602c1a.jpg",
+    "static/media/intro_sec8_slide1_bg.jpg": "/abcmart/static/media/intro_sec8_slide1_bg.6e76754ee914da6f28e3.jpg",
+    "static/media/intro_sec8_slide6_bg.jpg": "/abcmart/static/media/intro_sec8_slide6_bg.5a3224892cfd85809207.jpg",
+    "static/media/intro_sec8_slide2_bg.jpg": "/abcmart/static/media/intro_sec8_slide2_bg.2b9112369f183240a22c.jpg",
+    "static/media/intro_sec8_slide7_bg.jpg": "/abcmart/static/media/intro_sec8_slide7_bg.dac134d26c61ca4ceee2.jpg",
+    "static/media/marketing_giftcard_bg.jpg": "/abcmart/static/media/marketing_giftcard_bg.9dd4cf019fa904cc8b37.jpg",
+    "index.html": "/abcmart/index.html",
+    "main.93fd37f6.css.map": "/abcmart/static/css/main.93fd37f6.css.map",
+    "main.4d041dac.js.map": "/abcmart/static/js/main.4d041dac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93fd37f6.css",
+    "static/js/main.4d041dac.js"
+  ]
+}
